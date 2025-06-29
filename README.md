@@ -1,4 +1,4 @@
 - 👋 A CS student
 - 👀 An aspiring data scientist, and an AI enthusiast
-- 🌱 Currently learning Python and have a strong command of Java.
-- 💞️ Looking forward to collaborate on projects involving Java programming.
+- 🌱 Currently learning Python and have a strong command of Java, SQL, C++, Excel and PowerBI
+- 💞️ Looking forward to collaborate on projects to drive real impact
